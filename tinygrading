@@ -1,0 +1,62 @@
+---
+layout: page
+title: TinyGrading!
+permalink: /tinygrading/
+---
+
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Tiny Grading Assistant</h1>
+          <p>Tiny Grading Assistant is a core engine for grading assistant by using AI. Our core engine groups same handwritten equations into a group. It helps teacher to save time and effort for grading. It is researched and developed by Tiny AI. Tiny Grading Assistant can run in Window, Linux, ios, android platform. If you want to improve your grading service, please contact us via email tinyai.team@gmail.com.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+         
+            <h3>
+            <li>Run realtime on mobile devices</li>
+            <li>Support writing equations in any orders and styles</li>
+            <li>Support mutiple platforms such as windows/linux, android, and ios</li>
+            <li href="url"https://play.google.com/store/apps/details?id=tiny.demo.tensorexample">Try our demo on Google Play</li>
+            </h3>
+        </div>
+         <a class="btn btn-default btn-call-to-action" href= "https://drive.google.com/open?id=1DgcHKj7dik4r9Q9sGR60mc3phAr6SnpPAW_8boG96hY">Contact us</a>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/gpHYi_QDAP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+
+
+
+</section>
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>We design delightful digital experiences.</h2>
+          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
+          <a class="btn btn-default btn-call-to-action" href="{{ site.baseurl }}/contact" >Tell Us Your Story</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
